@@ -1,0 +1,18 @@
+Netflix Dataset observations:
+
+1) In total more than 99 Billion movies and 2 Billion TV Shows were released
+from the year 2008-2020.
+
+2) Most Tv Shows or Movies were released in The United States of America with
+India being the second. 
+
+3) Top 5 Genres are: 
+	> Documentries
+	> Stand-up comedy
+	> Drama, international movies
+	> Drama, independent movies, international movies
+	> Comedies, Drama, international movies
+
+4) Most of the Movies and TV Shows were released in the year 2019.
+
+5) More Movies have been released over the years than TV Shows
